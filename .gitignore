@@ -1,0 +1,8 @@
+# Emacs buffers
+\#*
+.#*
+*#
+/documents-public
+
+#Mac
+.DS_Store
