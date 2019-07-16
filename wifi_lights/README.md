@@ -27,7 +27,7 @@
 
 ## Software Used
 /What software will be used?/
-Arduino IDE
+- Arduino IDE
 
 ## Your Notes
 /Here you can write what ever you want/
