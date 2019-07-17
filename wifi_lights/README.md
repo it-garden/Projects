@@ -24,6 +24,7 @@
 /What hardware and material will be used?/
 - Arduino
 - ESP8266
+- Relay
 
 ## Software Used
 /What software will be used?/
