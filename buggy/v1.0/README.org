@@ -1,0 +1,13 @@
+* Buggy v1
+** Micro:bit #1 - Fjärkontroll
+Använder:
+    • Radio (BlueTooth)
+    • Knappar & Skak sensor
+
+[[buggyCTRL.jpg]]
+
+** Micro:bit #2 - Buggy
+Använder:
+Tillägg (mitronik-servo-lite), Radio, Visa ikon, Logik
+
+[[buggy.jpg]]

@@ -1,0 +1,19 @@
+* Buggy v2
+** Micro:bit #1 - Fjärkontroll
+Använder:
+    • Radio (BlueTooth)
+    • Gyroskop 
+    • Funktion
+    • Logik ( “while loop” )
+
+[[BuggieCTRL20.png]]
+
+** Micro:bit #2 - Buggy
+Använder:
+    • Radio (BlueTooth)
+    • Servo motor
+    • Tillägg (NeoPixel och kitronik-servo-lite)
+    • Funktion
+    • Logik ( “if/else statement” )
+
+[[Buggie20.png]]

@@ -1,0 +1,23 @@
+* Burglar Alarm v2
+example of extension of code from version one.
+
+** Micro:bit #1 - Sensor
+Använder:
+    • Radio (BlueTooth)
+    • Ljussensorer (LED lamporna)
+    • Logik (se: “om sats”, eng: “if statement”)
+    • Grund funktioner: Pause, Visa sträng, Visa ikon
+
+[[sensor2.jpg]]
+
+** Micro:bit #2 - Alarm
+Använder:
+    • Funktion
+    • Radio (BlueTooth)
+    • Logik (se: “om sats”, eng: “if statement”)
+    • LED lampor
+    • Musik
+        ◦ Genom simpel uppsättning av “breadboard” och högtalare
+    • Grund funktioner: Pause & Rensa skärmen, Visa ikon
+
+[[varnare2.jpg]]

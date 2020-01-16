@@ -1,0 +1,20 @@
+* Burglar Alarm v1
+** Micro:bit #1 - Sensor
+Använder:
+    • Radio (BlueTooth)
+    • Ljussensor (25 x LED lampor)
+    • Logik (se: “om sats”, eng: “if statement”)
+    • Grund funktioner: Pause
+
+[[microbit-AlarmSensor2.jpg]]
+
+** Micro:bit #2 - Alarm
+Använder:
+    • Radio (BlueTooth)
+    • Logik (se: “om sats”, eng: “if statement”)
+    • LED lampor
+    • Musik
+        ◦ Genom simpel uppsättning av “breadboard” och högtalare
+    • Grund funktioner: Pause & Rensa skärmen
+
+[[microbit-AlarmVarnare2.jpg]]
